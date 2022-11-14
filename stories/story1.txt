@@ -1,0 +1,20 @@
+&
+: (Got treausre box at the exit of the maze)
+
+*
+
+&
+: Hoo~~~~yaa~~~
+
+& 
+: (opened the treasure box, and there is a component of the time machine.)
+
+&
+: Woo, so much traps inside...
+
+&
+: Hmm... and somehow those blocks look so familiar.
+
+&
+: (go back to Kit's island)  [Press enter to continue]
+

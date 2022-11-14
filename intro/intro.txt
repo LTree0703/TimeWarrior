@@ -1,0 +1,8 @@
+---------ENGG1330 Project: Time Warrior----------
+
+## Game Functions ##
+---1. Start
+---2. Credit
+---3. Exit
+
+---------------------------------------------------
