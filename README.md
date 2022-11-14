@@ -8,7 +8,7 @@
 ### This is a mini text-based game made with python.
 
 ## 1. Getting Started 
-***
+
 - (A minimum terminal size of 85 rows times 30 columns is required)
 - Type `python3 main.py` on the terminal to initiate the game.
 - After command is received, a message would appear on the terminal:
@@ -38,7 +38,7 @@
 
 
 ## 2. Gameplays
-***
+
 - After completion of the prologue, you will be directed to our main map, the Kit's Island. The full map is shown below:
 
         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,7 +104,6 @@
 
 - Type `python3 main.py` on the terminal if you want to try this game again. 
 
-***
 ## (Three sub-games)
 
 - If you do not understnad how to play the sub-games, you may type .help in game 2 and 3 or press h in game 1 to check the tutorial of that sub-game.
@@ -120,7 +119,6 @@
 - Your target is to get into the cave to complete the maze, the question castle to answer questions and the final gate to fight against the ghost in order to return to modern times.
 
 ## 3. Exiting the game
-***
 - Press ctrl+c to force quit the game at any time. 
 
 
