@@ -1,9 +1,9 @@
  # ENGG1330 Project: Time Warrior
 
-## Creators of this game (in alphabetical order)
-- Chu Yan Kiu (Jason)
-- Lee Dongwook (Daniel)
-- Pang Tin Hei (Livear)
+## Creators of this game
+- Jason
+- Daniel
+- Livear
 
 ### This is a mini text-based game made with python.
 
